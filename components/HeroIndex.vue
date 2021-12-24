@@ -10,7 +10,7 @@
 
       <div class="container">
         <h1 class="title is-uppercase">
-          Pulsar
+          Lumberg
         </h1>
         <h2 class="subtitle">
           We make modern web applications and websites.
